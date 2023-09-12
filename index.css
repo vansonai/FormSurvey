@@ -1,0 +1,27 @@
+body {
+    margin-left: 30px;
+}
+
+.table1 tr td{
+    width: 150px;
+    text-align: center;
+}
+#ip_new_product {
+    width: 600px;
+    height: 150px;
+}
+.table2 td, th{
+    border: 1px solid #e0e0e0;
+
+}
+
+.table2 {
+    border-collapse: collapse;
+    font-size: 12px;
+}
+.table2 tr:nth-child(odd) {
+    background-color: #f1f0f0;
+}
+.table2_row1 td{
+    padding: 15px;
+}
